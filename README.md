@@ -105,4 +105,4 @@ web/index.html     Oberfläche
 
 ## Lizenz
 
-Noch offen. Für die Modelle gelten deren eigene Lizenzen (FLUX.1 schnell: Apache 2.0, SDXL: CreativeML Open RAIL++-M).
+MIT, siehe [LICENSE](LICENSE). Für die Modelle gelten deren eigene Lizenzen (FLUX.1 schnell: Apache 2.0, SDXL: CreativeML Open RAIL++-M).
